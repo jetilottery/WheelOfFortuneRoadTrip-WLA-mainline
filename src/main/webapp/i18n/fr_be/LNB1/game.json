@@ -1,0 +1,116 @@
+{
+    "version": "7-30-2018-4:56pm-SM-defaut_01",
+    "audioLoader": {
+        "yes": "Oui",
+        "no": "Non",
+        "confirm": "Activer le son ?"
+
+    },
+    "title": "Wheel of Fortune® – On the Road",
+    "MenuCommand": {
+        "WLA": {
+            "howToPlay": "Comment jouer ?",
+            "payTable": "Que peut-on gagner ?",
+            "price": "Mise",
+            "stake": "Mise",
+            "balance": "Balance",
+            "button_autoPlay": "AUTOPLAY"
+      
+        },
+        "audio": {
+            "on": "Activé",
+            "off": "Désactivé",
+            "sound": "Son"
+        }
+    },
+    "Error": {
+        "error29000": "Erreur:29000\n\nErreur interne détectée.\nEXIT et relancer le jeu."
+     },
+    "Bonus":{
+        "message_nonWinL": "Dommage, pas de gain",
+        "message_nonWinP": "Pas de gain",
+        "message_win": "Jeu bonus !",
+        "press_spin":"LANCER",
+        "round0":"JEU BONUS",
+        "round1_L":"FAITES TOURNER LA ROUE POUR UNE CHANCE DE GAIN BONUS ! \nROULEZ VERS DE NOUVELLES DESTINATIONS ET D’AUTRES GAINS POTENTIELS.",
+        "round1_P":"FAITES TOURNER LA ROUE POUR UNE CHANCE DE GAIN BONUS ! \nROULEZ VERS DE NOUVELLES DESTINATIONS ET D’AUTRES GAINS POTENTIELS.",
+        "round1_Max":"TOURNEZ LA ROUE POUR AVOIR UNE CHANCE SUPPLÉMENTAIRE DE GAIN BONUS !",
+        "spin":"TOURNER",
+        "noWin":"Pas de gain"
+        
+    },
+    "Map":{
+        "title":"VOUS ÊTES AU NIVEAU ",
+        "desc": "Remplissez le réservoir de carburant pour déverrouiller le niveau suivant.",
+        "newLevel":"NOUVEAU NIVEAU DÉVERROUILLÉ !",
+        "segmentTip":"Atteignez un nouveau niveau pour déverrouiller \nun numéro dans la zone « Numéros gagnants » et \nune possibilité de gain supplémentaire dans la roue bonus."
+    },
+    "Game": {
+        "demo": "DÉMO ",
+        "button_buy": "ACHETER",
+        "button_try": "DÉMO",
+        "button_continue": "CONTINUER",
+        "button_move2moneyGame": "ACHETER",
+        "button_playAgain": "ACHETER",
+        "button_MTMPlayAgain": "DÉMO",
+        "button_stop": "ARRÊTER",
+        "wager": "Mise :",
+        "meter_wager": "Mise : ",            
+        "balance": "Balance : ",
+        "wins": "Gain : ",
+        "wins_demo": "Démo : ",
+        "message_nonWin": "Dommage, pas de gain.",
+        "message_buyWin": "Bravo!",
+        "message_buyWin_have_won":"Vous gagnez",
+        "message_tryWin": "Une démo du jeu ne donne droit à aucun gain.",
+        "message_tryWin_have_won":" ",
+        "message_anonymousTryWin": "Une démo du jeu ne donne droit à aucun gain.",
+        "message_anonymousTryWin_have_won":" ",
+        "message_close": "OK",
+        "message_baseGame":"Gain ",
+        "message_bonusGame":"Gain bonus ",
+        "button_exit": "QUITTER",
+        "session_timeout_warning_exit_button": "QUITTER",
+        "error_button_exit": "QUITTER",
+        "warning_button_continue": "CONTINUER",
+        "warning_button_exitGame": "QUITTER",
+        "warning_title": "WARNING",
+        "error_title": "ERREUR",
+        "win_up_to": "GAGNEZ JUSQU’À",
+        "win_up_to_des0": "Cet achat ajoute {fuelNum} \nunité(s) de carburant dans votre réservoir. \nRemplissez-le et accédez au prochain niveau de jeu \ndès que le réservoir est plein.",
+        "win_up_to_des1": "Votre niveau de jeu est enregistré à la fin \nde chaque participation au jeu. Prenez la route !",
+        "win_up_to_des2": "Certains niveaux déverrouillent des fonctionnalités \nsupplémentaires dans le jeu !",
+        "win_up_to_mark": "!",
+        "tutorial_title": "COMMENT JOUER ?",
+        "tutorial_00": "Un de vos numéros correspond à l’un des numéros gagnants ? Vous gagnez le montant correspondant. \nTrouvez un symbole multiplicateur et le gain sera multiplié en conséquence !",
+        "tutorial_01": "Remplissez le réservoir de carburant et roulez vers de nouvelles destinations ! \nVotre niveau de jeu est enregistré à la fin de chaque participation au jeu",
+        "tutorial_02": "Trouvez le symbole de carburant et remplissez votre réservoir.",
+        "tutorial_03": "Atteignez les différents niveaux de jeu et recevez de nouveaux numéros dans la zone  « Numéros gagnants », ainsi qu’une possibilité de gain supplémentaire dans la roue bonus.  ",
+        "tutorial_04": "Tentez de remporter un gain bonus en tournant la roue à la fin de chaque jeu.",
+        "meter_division": " | ",
+        "prizeLevel": "Prize Level",
+        "prizeValue": "Prize Value",
+        "buttonClose": "X",
+        "paytableWager": "Mise : ",
+        "scene1":"PLAGE",
+        "scene2":"VILLE",
+        "scene3":"FORÊT",
+        "scene4":"MONTAGNE",
+        "scene5":"SOMMET",
+        "description":"Description",
+        "map_start":"JOUER",
+        "map_exit":"OK",
+        "your_numbersL":"NUMÉROS GAGNANTS",
+        "win_numbersL":"VOS NUMÉROS",
+        "your_numbersP":"NUMÉROS GAGNANTS",
+        "win_numbersP":"VOS NUMÉROS",
+        "level":"NIVEAU :",
+        "maxlevel":"NIVEAU MAXIMUM ATTEINT",
+        "nextLevel":"NOUVEAU NIVEAU !",
+        "unlocksegment_12":"Quand le niveau 5 est atteint, recevez le numéro bleu complémentaire, dans la zone « Numéros gagnants » . ",
+        "unlocksegment_13":"Quand le niveau 11 est atteint, recevez le numéro vert complémentaire, dans la zone « Numéros gagnants » ",
+        "unlocksegment_14":"Quand le niveau 19 est atteint, recevez le numéro rose complémentaire, dans la zone  « Numéros gagnants » .",
+        "unlocksegment_15":"Quand le niveau 29 est atteint, recevez le numéro mauve complémentaire, dans la zone  « Numéros gagnants » ."
+        
+    }
+}

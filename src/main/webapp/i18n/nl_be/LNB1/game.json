@@ -1,0 +1,116 @@
+{
+    "version": "7-30-2018-4:56pm-SM-defaut_01",
+    "audioLoader": {
+        "yes": "Ja",
+        "no": "Nee",
+        "confirm": "Wil je geluid?"
+
+    },
+    "title": "Wheel of Fortune® – On the Road",
+    "MenuCommand": {
+        "WLA": {
+            "howToPlay": "Hoe spelen?",
+            "payTable": "Wat kan je winnen?",
+            "price": "Inzet",
+            "stake": "Inzet",
+            "balance": "Balance",
+            "button_autoPlay": "AUTOPLAY"
+      
+        },
+        "audio": {
+            "on": "Aan",
+            "off": "Uit",
+            "sound": "Geluid"
+        }
+    },
+    "Error": {
+        "error29000": "Fout:29000\n\nInterne fout gevonden.\nEXIT en het spel opnieuw starten." 
+    },
+    "Bonus":{
+        "message_nonWinL": "Helaas, geen winst.",
+        "message_nonWinP": "Geen winst",
+        "message_win": "Bonusspel!",
+        "press_spin":"STARTEN",
+        "round0":"BONUSSPEL",
+        "round1_L":"DRAAI AAN HET RAD EN MAAK KANS OP EEN BONUSWINST ! \nRIJD NAAR NIEUWE BESTEMMINGEN EN ONTGRENDEL ANDERE MOGELIJKE WINSTEN.",
+        "round1_P":"DRAAI AAN HET RAD EN MAAK KANS OP EEN BONUSWINST ! \nRIJD NAAR NIEUWE BESTEMMINGEN EN ONTGRENDEL ANDERE MOGELIJKE WINSTEN.",
+        "round1_Max":"DRAAI AAN HET RAD EN MAAK KANS OP EEN BONUSWINST !",
+        "spin":"DRAAIEN",
+        "noWin":"Geen winst"
+        
+    },
+    "Map":{
+        "title":"JE BENT OP LEVEL ",
+        "desc": "Vul de brandstoftank om het volgende level te ontgrendelen.",
+        "newLevel":"HET NIEUWE LEVEL IS ONTGRENDELD!",
+        "segmentTip":"Bereik een nieuw level om een nummer in de\n zone “Winnende nummers” of een bijkomende\n winstmogelijkheid in het Bonusrad te ontgrendelen."
+    },
+    "Game": {
+        "demo": "DEMO ",
+        "button_buy": "KOPEN",
+        "button_try": "DEMO",
+        "button_continue": "DOORGAAN",
+        "button_move2moneyGame": "KOPEN",
+        "button_playAgain": "KOPEN",
+        "button_MTMPlayAgain": "DEMO",
+        "button_stop": "STOP",
+        "wager": "INZET",
+        "meter_wager": "Inzet: ",            
+        "balance": "Balance: ",
+        "wins": "Winst: ",
+        "wins_demo": "Demo: ",
+        "message_nonWin": "Helaas, geen winst.",
+        "message_buyWin": "Proficiat!",
+        "message_buyWin_have_won":"Je wint",
+        "message_tryWin": "Een demospel geeft geen enkel recht op een winstbedrag.",
+        "message_tryWin_have_won":" ",
+        "message_anonymousTryWin": "Een demospel geeft geen enkel recht op een winstbedrag.",
+        "message_anonymousTryWin_have_won":" ",
+        "message_close": "OK",
+        "message_baseGame":"Winst ",
+        "message_bonusGame":"Bonuswinst ",
+        "button_exit": "VERLATEN",
+        "session_timeout_warning_exit_button": "VERLATEN",
+        "error_button_exit": "VERLATEN",
+        "warning_button_continue": "DOORGAAN",
+        "warning_button_exitGame": "VERLATEN",
+        "warning_title": "WARNING",
+        "error_title": "FOUT",
+        "win_up_to": "WIN TOT",
+        "win_up_to_des0": "Deze aankoop voegt {fuelNum}\nbrandstofeenheid(en) toe aan je brandstoftank.\nVul de brandstoftank en ga naar het\nvolgende spellevel zodra de tank vol is.",
+        "win_up_to_des1": "Aan het slot van elke speldeelname\nwordt je spellevel geregistreerd.\nStap in en ga op weg! ",
+        "win_up_to_des2": "Sommige spellevels ontgrendelen\nbijkomende spelfuncties!",
+        "win_up_to_mark": "!",
+        "tutorial_title": "HOE SPELEN?",
+        "tutorial_00": "Stemt één van “Je nummers” overeen met één van de “Winnende nummers”? Dan win je het bijbehorende bedrag. \nOntdek een vermenigvuldigingssymbool en je winstbedrag wordt vermenigvuldigd! ",
+        "tutorial_01": "Vul de brandstoftank en rijd naar nieuwe bestemmingen! \nAan het slot van elke speldeelname wordt je spellevel geregistreerd.",
+        "tutorial_02": "Ontdek het brandstofsymbool en vul je brandstoftank.",
+        "tutorial_03": "Bereik de verschillende spellevels, en ontvang nieuwe nummers in de zone “Winnende nummers” alsook een bijkomende winstmogelijkheid in het Bonusrad.",
+        "tutorial_04": "Probeer een Bonuswinst te behalen door aan het slot van ieder spel met het Bonusrad te draaien.",
+        "meter_division": " | ",
+        "prizeLevel": "Prize Level",
+        "prizeValue": "Prize Value",
+        "buttonClose": "X",
+        "paytableWager": "Inzet: ",
+        "scene1":"STRAND",
+        "scene2":"STAD",
+        "scene3":"WOUD",
+        "scene4":"BERG",
+        "scene5":"TOP",
+        "description":"Description",
+        "map_start":"SPELEN",
+        "map_exit":"OK",
+        "your_numbersL":"WINNENDE NUMMERS",
+        "win_numbersL":"JE NUMMERS",
+        "your_numbersP":"WINNENDE NUMMERS",
+        "win_numbersP":"JE NUMMERS",
+        "level":"LEVEL:",
+        "maxlevel":"MAXIMUMLEVEL BEREIKT",
+        "nextLevel":"NIEUWE LEVEL! ",
+        "unlocksegment_12":"Wanneer je level 5 hebt bereikt, ontvang je het blauwe bijkomende nummer in de zone “Winnende nummers”.",
+        "unlocksegment_13":"Wanneer je level 11 hebt bereikt, ontvang je het groene bijkomende nummer in de zone “Winnende nummers”.",
+        "unlocksegment_14":"Wanneer je level 19 hebt bereikt, ontvang je het roze  bijkomende nummer in de zone “Winnende nummers”.",
+        "unlocksegment_15":"Wanneer je level 29 hebt bereikt, ontvang je het paarse bijkomende nummer in de zone “Winnende nummers”."
+        
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "version": "7-30-2018-4:56pm-SM-defaut_01",
+    "audioLoader": {
+        "yes": "Ja",
+        "no": "Nein",
+        "confirm": "Mit Ton?"
+
+    },
+    "title": "Wheel of Fortune® – On the Road",
+    "MenuCommand": {
+        "WLA": {
+            "howToPlay": "Spielanleitung",
+            "payTable": "Was kann man gewinnen?",
+            "price": "Einsatz",
+            "stake": "Einsatz",
+            "balance": "Balance",
+            "button_autoPlay": "AUTOPLAY"
+      
+        },
+        "audio": {
+            "on": "An",
+            "off": "Aus",
+            "sound": "Ton"
+        }
+    },
+    "Error": {
+        "error29000": "Fehler:29000\n\nInterner Fehler erfasst.\nEXIT und Neustart des Spiels." 
+    },
+    "Bonus":{
+        "message_nonWinL": "Schade, kein Gewinn.",
+        "message_nonWinP": "Kein Gewinn",
+        "message_win": "Bonusspiel!",
+        "press_spin":"STARTEN",
+        "round0":"BONUSSPIEL",
+        "round1_L":"DREHEN SIE DAS RAD FÜR EINE CHANCE AUF EINEN BONUSGEWINN! \nFAHREN SIE ZU NEUEN ZIELEN UND ENTRIEGELN SIE ANDERE MÖGLICHE GEWINNE.",
+        "round1_P":"DREHEN SIE DAS RAD FÜR EINE CHANCE AUF EINEN BONUSGEWINN! \nFAHREN SIE ZU NEUEN ZIELEN UND ENTRIEGELN SIE ANDERE MÖGLICHE GEWINNE.",
+        "round1_Max":"DREHEN SIE DAS RAD FÜR EINE ZUSÄTZLICHE CHANCE AUF EINEN BONUSGEWINN!",
+        "spin":"DREHEN",
+        "noWin":"Kein Gewinn"
+        
+    },
+    "Map":{
+        "title":"SIE SIND AUF LEVEL ",
+        "desc": "Füllen Sie den Treibstofftank, um das nächste Level zu entriegeln.",
+        "newLevel":"NEUES LEVEL ENTRIEGELT!",
+        "segmentTip":"Erreichen Sie ein neues Level, um eine Zahl\n im „Gewinnzahlen“-Bereich zu entriegeln\n und für eine zusätzliche Gewinnchance im Bonusrad."
+    },
+    "Game": {
+        "demo": "DEMO ",
+        "button_buy": "KAUFEN",
+        "button_try": "DEMO",
+        "button_continue": "WEITER",
+        "button_move2moneyGame": "KAUFEN",
+        "button_playAgain": "KAUFEN",
+        "button_MTMPlayAgain": "DEMO",
+        "button_stop": "STOPP",
+        "wager": "Einsatz",
+        "meter_wager": "Einsatz: ",            
+        "balance": "Balance: ",
+        "wins": "Gewinn: ",
+        "wins_demo": "Demo: ",
+        "message_nonWin": "Schade, kein Gewinn.",
+        "message_buyWin": "Glückwunsch!",
+        "message_buyWin_have_won":"Sie gewinnen",
+        "message_tryWin": "Ein Demospiel gibt keinen Anspruch auf Gewinn.",
+        "message_tryWin_have_won":" ",
+        "message_anonymousTryWin": "Ein Demospiel gibt keinen Anspruch auf Gewinn.",
+        "message_anonymousTryWin_have_won":" ",
+        "message_close": "OK",
+        "message_baseGame":"Gewinn ",
+        "message_bonusGame":"Bonusgewinn ",
+        "button_exit": "BEENDEN",
+        "session_timeout_warning_exit_button": "BEENDEN",
+        "error_button_exit": "BEENDEN",
+        "warning_button_continue": "WEITER",
+        "warning_button_exitGame": "BEENDEN",
+        "warning_title": "WARNING",
+        "error_title": "FEHLER",
+        "win_up_to": "GEWINNEN SIE BIS ZU",
+        "win_up_to_des0": "Dieser Kauf fügt {fuelNum} \nTreibstoffeinheit(en) Ihrem Tank hinzu. \nFüllen Sie ihn und gelangen Sie zum nächsten Spiellevel, \nsobald er voll ist.",
+        "win_up_to_des1": "Ihr Spiellevel wird am Ende jeder \nSpielteilnahme gespeichert. Fahren Sie los!",
+        "win_up_to_des2": "Auf manchen Levels werden \nzusätzliche Spiel-Funktionen entriegelt!",
+        "win_up_to_mark": "!",
+        "tutorial_title": "SPIELANLEITUNG",
+        "tutorial_00": "Stimmt eine Ihrer Zahlen mit einer der Gewinnzahlen überein? Dann gewinnen Sie den entsprechenden Betrag. \nFinden Sie ein Multiplikations-Zeichen, vervielfacht sich der Gewinn entsprechend!",
+        "tutorial_01": "Füllen Sie Ihren Treibstofftank und steuern Sie neue Ziele an! \nIhr Spiellevel wird am Ende jeder Spielteilnahme gespeichert.",
+        "tutorial_02": "Finden Sie das Treibstoff-Symbol und füllen Sie Ihren Tank.",
+        "tutorial_03": "Erreichen Sie die verschiedenen Spiellevels und erhalten Sie neue Zahlen im „Gewinnzahlen“-Bereich sowie eine zusätzliche Gewinnchance im Bonusrad.  ",
+        "tutorial_04": "Versuchen Sie, einen Bonusgewinn zu erzielen, indem Sie am Ende eines jeden Spiels das Rad drehen.",
+        "meter_division": " | ",
+        "prizeLevel": "Prize Level",
+        "prizeValue": "Prize Value",
+        "buttonClose": "X",
+        "paytableWager": "Einsatz: ",
+        "scene1":"STRAND",
+        "scene2":"STADT",
+        "scene3":"WALD",
+        "scene4":"GEBIRGE",
+        "scene5":"GIPFEL",
+        "description":"Description",
+        "map_start":"SPIELEN",
+        "map_exit":"OK",
+        "your_numbersL":"GEWINNZAHLEN",
+        "win_numbersL":"IHRE ZAHLEN",
+        "your_numbersP":"GEWINNZAHLEN",
+        "win_numbersP":"IHRE ZAHLEN",
+        "level":"LEVEL",
+        "maxlevel":"HÖCHSTES LEVEL ERREICHT",
+        "nextLevel":"NEUES LEVEL!",
+        "unlocksegment_12":"Bei Erreichen des Levels 5 erhalten Sie die blaue Zusatzzahl im „Gewinnzahlen“-Bereich.",
+        "unlocksegment_13":"Bei Erreichen des Levels 11 erhalten Sie die grüne Zusatzzahl im „Gewinnzahlen“-Bereich.",
+        "unlocksegment_14":"Bei Erreichen des Levels 19 erhalten Sie die rosa Zusatzzahl im „Gewinnzahlen“-Bereich.",
+        "unlocksegment_15":"Bei Erreichen des Levels 29 erhalten Sie die helllila Zusatzzahl im „Gewinnzahlen“-Bereich."
+        
+    }
+}
